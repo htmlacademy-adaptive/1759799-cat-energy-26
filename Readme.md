@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Евгений Смертин](https://up.htmlacademy.ru/adaptive/26/user/1759799).
-* Наставник: [Герман Карев].(https://htmlacademy.ru/profile/id269691).
+* Наставник: [Герман Карев].(https://htmlacademy.ru/profile/id269691)
 
 ---
 
